@@ -70,7 +70,7 @@ Book List:
 Use Flashcards: [anki][anki:flashcard]
 
 ## The Daily Plan
----
+
 > `Progress Not Perfection`
 
 ### Learn multiple programming language
