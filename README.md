@@ -55,8 +55,6 @@ Begin to apply!
 
 ## General Preparation
 
----
-
 Pick One Language for the Interview: Golang
 
 Book List:
